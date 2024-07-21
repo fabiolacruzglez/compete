@@ -1,0 +1,112 @@
+{
+  "docs": [
+    {
+      "Topic": "Learning for the Future",
+      "Code": "Addressing_Concerns",
+      "Subcode 1": "Pricing_Strategy",
+      "Subcode 2": ""
+    },
+    {
+      "Topic": "Learning for the Future",
+      "Code": "Addressing_Concerns",
+      "Subcode 1": "Product_Improvement",
+      "Subcode 2": ""
+    },
+    {
+      "Topic": "Learning for the Future",
+      "Code": "Addressing_Concerns",
+      "Subcode 1": "Tailored demos for customer needs",
+      "Subcode 2": ""
+    },
+    {
+      "Topic": "Learning for the Future",
+      "Code": "Clearer Roadmap",
+      "Subcode 1": "Customer confusion about public previews",
+      "Subcode 2": ""
+    },
+    {
+      "Topic": "Learning for the Future",
+      "Code": "Clearer Roadmap",
+      "Subcode 1": "Public previews with strict timeline to be launched",
+      "Subcode 2": ""
+    },
+    {
+      "Topic": "Learning for the Future",
+      "Code": "Marketing",
+      "Subcode 1": "Communiate new product capabilities aligned to customer needs",
+      "Subcode 2": ""
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Kong's Advantages",
+      "Subcode 2": "Deployment model with neutral cloud"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Kong's Advantages",
+      "Subcode 2": "Deployment model with all languages"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Kong's Advantages",
+      "Subcode 2": "Deployment model with neutral cloud"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Apigee strengths",
+      "Subcode 2": "Governance"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Kong's Advantages",
+      "Subcode 2": "Ease of Use"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Kong's Advantages",
+      "Subcode 2": "Resilience; no depending on DB"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Apigee Weaknesses",
+      "Subcode 2": "Legacy code (Cassandra)"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Positioning",
+      "Subcode 2": ""
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Pricing_Gaps",
+      "Subcode 2": "Competitive price"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Product_Gaps",
+      "Subcode 2": "Advanced analytics"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Kong's Advantages",
+      "Subcode 2": "Scalability"
+    },
+    {
+      "Topic": "Understanding the Loss",
+      "Code": "Competitor Comparison",
+      "Subcode 1": "Kong's Advantages",
+      "Subcode 2": "Supported languages"
+    }
+  ]
+}
